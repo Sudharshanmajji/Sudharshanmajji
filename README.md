@@ -105,6 +105,7 @@ My goal is to become a software engineer with strong Computer Science fundamenta
 * LinkedIn:https://www.linkedin.com/in/sudharshan-majji/
 * LeetCode: https://leetcode.com/u/Sudharshanmajji_9/
 * GeeksforGeeks: https://www.geeksforgeeks.org/profile/majjisudbm5r
+* HackerRank:https://www.hackerrank.com/profile/majjisudharshan
 
 ---
 
